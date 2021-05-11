@@ -40,7 +40,7 @@ xorg-drivers
 xorg
 xorg-xinit
 xorg-xsetroot
-###################################yay packages#####################################
+###################################AUR packages#####################################
 ffmpeg-compat-57
 gcadapter-oc-dkms
 laptop-mode-tools

@@ -42,6 +42,7 @@ wine-gecko
 wine-mono
 winetricks
 xorg-drivers
+xorg
 xorg-xinit
 xorg-xsetroot
 yay

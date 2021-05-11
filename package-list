@@ -8,15 +8,12 @@ discord
 dosfstools
 efibootmgr
 evince
-ffmpeg-compat-57
 firefox
 flatpak
-gcadapter-oc-dkms
 git
 grub
 gzip
 htop
-laptop-mode-tools
 libreoffice-fresh
 libxft
 linux
@@ -30,13 +27,11 @@ ntfs-3g
 osprober
 pcmanfm
 scrot
-slippi-online-appimage
-spotify
+steam
 ttf-linux-libertine
 ttf-nerd-fonts-symbols
 vi
 vim
-whatsapp-nativefier
 wine
 wine-gecko
 wine-mono
@@ -45,4 +40,17 @@ xorg-drivers
 xorg
 xorg-xinit
 xorg-xsetroot
+###################################yay packages#####################################
+ffmpeg-compat-57
+gcadapter-oc-dkms
+laptop-mode-tools
+openjpeg
+slippi-online-appimage
+spotify
+spotify-adblock
+whatsapp-nativefier
+######################################git packages###################################
 yay
+dwm
+st
+dmenu
